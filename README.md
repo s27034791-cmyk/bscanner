@@ -451,4 +451,4 @@ The system uses carefully crafted prompts to:
 
 ---
 
-**Built with ❤️ for efficient business card scanning and Indian name detection**
+**Built with ❤️ for efficient business card scanning for everyone**
